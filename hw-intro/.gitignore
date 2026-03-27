@@ -3,3 +3,8 @@ map
 words/words
 !wc_sort.o
 !wc_sort_arm.o
+map.i
+map.o
+map.S
+recurse.o
+recurse.S
